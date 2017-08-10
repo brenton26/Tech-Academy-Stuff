@@ -1,0 +1,11 @@
+
+@font-face {
+  font-family: hyliaserif;
+  src: url(.hyliaserif.otc);
+}
+h1 {
+  color: white;
+  font-family: hyliaserif;
+  font-weight: 900;
+  text-transform: uppercase;
+}
